@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 12 Pro",
+      "desc": "Apple iPhone 12 generation",
+      "price": 999,
+      "color": "#33505a",
+      "image": "https://discountshop-online.com/604-medium_default/apple-iphone-12-pro-max-128-256-512-go.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Pixel 5",
+      "desc": "Google Pixel phone 5th generation",
+      "price": 699,
+      "color": "#00ac51",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Pixel_5.svg/1200px-Pixel_5.svg.png"
+    },
+    {
+      "id": 3,
+      "name": "Macbook Pro 2021",
+      "desc": "World's fastest laptop",
+      "price": 2499,
+      "color": "#00ac51",
+      "image": "https://static.bhphotovideo.com/explora/sites/default/files/1-apple-162-macbook-pro-with-m1-max-chip-late-2021-space-gray-1634584510_1668190_crp.png"
+    },
+    {
+      "id": 4,
+      "name": "Realme X2 pro",
+      "desc": "LIMITED EDITION",
+      "price": 249,
+      "color": "#00ac51",
+      "image": "https://freebiescloud.com/wp-content/uploads/2020/10/4-55.png"
+    },
+    {
+      "id": 5,
+      "name": "Realme X2 pro",
+      "desc": "LIMITED EDITION",
+      "price": 249,
+      "color": "#00ac51",
+      "image": "https://freebiescloud.com/wp-content/uploads/2020/10/4-55.png"
+    },
+    {
+      "id": 6,
+      "name": "Realme X2 pro",
+      "desc": "LIMITED EDITION",
+      "price": 249,
+      "color": "#00ac51",
+      "image": "https://freebiescloud.com/wp-content/uploads/2020/10/4-55.png"
+    }
+  ]
+}
